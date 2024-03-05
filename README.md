@@ -1,4 +1,4 @@
-This is the project repository for XRUnity Course.
+This is the project repository for "Design for XR with Unity3D" Course.
 
 It will be updated as the course progresses.
 
